@@ -6,4 +6,4 @@ const edit = "edit";
 
 const stash3 = "stash3"; 
 
-const rebase = "rebase";
+const rebase = "rebase2";
