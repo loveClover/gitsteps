@@ -3,4 +3,7 @@ const hi = "hi";
 const hi2 = "hi2";
 
 const edit = "edit";
-const gitstash = "";
+
+const stash3 = "stash3"; 
+
+const rebase = "";
